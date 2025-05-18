@@ -1,0 +1,11 @@
+long_window: 1500
+short_window: 334
+ppo:
+  segment_cov_bonus: 0.25
+  mid_segment_hit: 0.20
+core_pool:
+  sigma_expand_1: 0.20   # K = 16
+  sigma_expand_2: 0.12   # K = 17
+guard:
+  low_fixed: 03
+  high_cycle: [35, 38]
