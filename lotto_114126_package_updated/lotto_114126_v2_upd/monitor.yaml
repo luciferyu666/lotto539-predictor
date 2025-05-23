@@ -1,0 +1,5 @@
+# monitor.yaml – simple KPI thresholds for CI verification
+kpis:
+  hit_at_core_min: 0.75
+  hit2_min: 0.60
+  roi_min: 0.05
