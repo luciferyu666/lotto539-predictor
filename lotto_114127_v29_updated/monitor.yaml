@@ -1,8 +1,0 @@
-
-kpi_thresholds:
-  hit_core: 0.75
-  hit2: 0.65
-  hit3_plus: 0.40
-  roi: 0.05
-notify:
-  slack_webhook: "https://hooks.slack.com/services/T000/XXXXXX"

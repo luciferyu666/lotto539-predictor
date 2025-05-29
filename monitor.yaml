@@ -1,6 +1,0 @@
-
-# KPI thresholds
-hit_at_core: 35  # percent
-hit2_expectation: 0.12
-roi12: -0.02
-udi: 0.70
